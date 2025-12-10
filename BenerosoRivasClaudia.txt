@@ -1,0 +1,45 @@
+    1  history -w
+    2  git remote add origin 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
+    3* git remote add origin https://github.com/settings/personal-access-tokens
+    4  cd eclipse-workspace
+    5  cd CBN1305_Factorial
+    6  cd CBN1305_Factorial/
+    7  cd BRC1305_Factorial/
+    8  cd BenerosoRivasClaudia_Factorial/
+    9  git init
+   10  git remote add origin git@github.com:claudiabr14/BRC1305_Factorial.git
+   11  git remote set-url origin git@github.com:claudiabr14/BRC1305_Factorial.git
+   12  git branch -M main
+   13  git push -u origin main
+   14  git push -u origin main
+   15  git branch -M main
+   16  git push -u origin main
+   17  git remote set-url origin https://github.com/claudiabr14/BRC1305_Factorial.git
+   18  git remote add origin https://github.com/claudiabr14/BRC1305_Factorial.git
+   19  git branch -M main
+   20  git push -u origin main
+   21  cd "C:\\Users\\cbenriv1305\\eclipse-workspace"
+   22  git clone git@github.com:claudiabr14/BRC1305_Factorial.git
+   23  cd BenerosoRivasClaudia_Factorial
+   24  git clone git@github.com:claudiabr14/BRC1305_Factorial.git
+   25  git add.
+   26  git add .
+   27  static int pedirNumero()
+   28  git add src/edu/cbenriv1305/pruebaControlVersiones/Factorial.java
+   29  git add src/cbenriv1305/pruebaControlVersiones/Factorial.java
+   30  git add src/pruebaControlVersiones/Factorial.java
+   31  git add .
+   32  git commit -m "Estructura Eclipse + Main (inicial)"
+   33  git branch -M main
+   34  git push -u origin main
+   35  git switch -c factorial_recursivo
+   36  git add src/pruebaControlVersiones/Factorial.java
+   37  git log --oneline --graph
+   38  git push -u origin main
+   39  git push -u origin main
+   40  git push -u origin main
+   41  git push -u origin main
+   42  git push -u origin main
+   43  History > 
+   44  History 
+   45  history > BenerosoRivasClaudia.txt
